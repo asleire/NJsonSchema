@@ -13,6 +13,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Company />
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyName>Alek.NjsonSchema</AssemblyName>
+    <RootNamespace>Alek.NjsonSchema</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DefineConstants>TRACE;DEBUG</DefineConstants>
